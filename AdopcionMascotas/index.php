@@ -19,9 +19,9 @@
 		<nav class="menuPrincipal">
 			<a href="#">Inicio</a>
 			<a href="Internas/servicios.php">Servicios</a>
-			<a href="#">Productos</a>
-			<a href="#">Adopción</a>
-			<a href="#">Contactos</a>
+			<a href="#">Borrar Personal</a>
+			<a href="internas/adopcion.php">Adopción</a>
+			<a href="internas/personal.php">Personal</a>
 		</nav>
 	</header>
 	<section class="sliderPrincipal">
@@ -30,7 +30,7 @@
 			<button class="buttonA button2 button3">Adoptanos</button>
 		</div>
 	</section>
-	<section class="titulo"><h3 class="colorAzul"> Adopcion</h3></section>
+	<section class="titulo"><h3 class="colorAzul">Adopcion</h3></section>
 	<section class="adopcion1">
 		<img src="images/dog1.png" title="Symba" description= "perro en adopcion">
 		<article class="card1">
